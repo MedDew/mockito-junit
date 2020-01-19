@@ -1,0 +1,2 @@
+#INSERT INTO employee(id, first_name, last_name) VALUES(nextval('employee_seq'),'Mehdi', 'Gacem'),(nextval('employee_seq'),'Myriam', 'Tosi'),(nextval('employee_seq'),'Lenny', 'Tosi');
+#INSERT INTO department(id, name) VALUES(nextval('department_id_seq'),'IT'),(nextval('department_id_seq'),'Administrative'),(nextval('department_id_seq'),'HR');
